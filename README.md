@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0283-move-zeroes) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
