@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0283-move-zeroes) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Linked List
 |  |
 | ------- |
