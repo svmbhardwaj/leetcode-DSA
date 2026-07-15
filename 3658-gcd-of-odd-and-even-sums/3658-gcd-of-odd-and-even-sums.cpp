@@ -1,8 +1,6 @@
 class Solution {
 public:
     int gcdOfOddEvenSums(int n) {
-        int sumOdd = n * (2 + (n - 1) * 2)/2;
-        int sumEven = n * (4+(n-1)*2)/2;
-        return gcd(sumOdd, sumEven);
+        return n;
     }
 };
