@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0283-move-zeroes) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -110,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
 ## Enumeration
