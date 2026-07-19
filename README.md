@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0520-detect-capital](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0520-detect-capital) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
