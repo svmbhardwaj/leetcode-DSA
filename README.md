@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0283-move-zeroes) |
+| [0905-sort-array-by-parity](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0268-missing-number) |
+| [0905-sort-array-by-parity](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
 ## Enumeration
 |  |
