@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0283-move-zeroes) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0905-sort-array-by-parity) |
