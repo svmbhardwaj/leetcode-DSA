@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3536-maximum-product-of-two-digits](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Enumeration
 |  |
 | ------- |
