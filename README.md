@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Enumeration
 |  |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
