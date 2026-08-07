@@ -106,10 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/0520-detect-capital) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2390-removing-stars-from-a-string](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2390-removing-stars-from-a-string](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [2390-removing-stars-from-a-string](https://github.com/svmbhardwaj/leetcode-DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
